@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0-windows7.0\PrimeiraAula.exe
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0-windows7.0\PrimeiraAula.deps.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0-windows7.0\PrimeiraAula.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0-windows7.0\PrimeiraAula.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0-windows7.0\PrimeiraAula.pdb
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.frmPrincipal.resources
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.sourcelink.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\refint\PrimeiraAula.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.pdb
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\PrimeiraAula.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0-windows7.0\ref\PrimeiraAula.dll

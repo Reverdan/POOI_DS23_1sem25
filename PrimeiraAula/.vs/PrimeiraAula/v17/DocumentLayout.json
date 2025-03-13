@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\",
+  "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\source\\repos\\primeiraaula\\primeiraaula\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\source\\repos\\primeiraaula\\primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\source\\repos\\primeiraaula\\primeiraaula\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\source\\repos\\primeiraaula\\primeiraaula\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
               "RelativeDocumentMoniker": "PrimeiraAula\\apresentacao\\Form1.cs",
-              "ToolTip": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
               "RelativeToolTip": "PrimeiraAula\\apresentacao\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:33:08.341Z",
               "EditorCaption": ""
@@ -49,35 +49,37 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Validacao.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\modelo\\Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Validacao.cs",
               "RelativeDocumentMoniker": "PrimeiraAula\\modelo\\Validacao.cs",
-              "ToolTip": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Validacao.cs",
               "RelativeToolTip": "PrimeiraAula\\modelo\\Validacao.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:27:54.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calculos.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\modelo\\Calculos.cs",
-              "RelativeDocumentMoniker": "PrimeiraAula\\modelo\\Calculos.cs",
-              "ToolTip": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\modelo\\Calculos.cs",
-              "RelativeToolTip": "PrimeiraAula\\modelo\\Calculos.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:27:40.238Z"
+              "WhenOpened": "2025-02-26T23:27:54.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Calculos.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Calculos.cs",
+              "RelativeDocumentMoniker": "PrimeiraAula\\modelo\\Calculos.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Calculos.cs",
+              "RelativeToolTip": "PrimeiraAula\\modelo\\Calculos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:27:40.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Controle.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\modelo\\Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Controle.cs",
               "RelativeDocumentMoniker": "PrimeiraAula\\modelo\\Controle.cs",
-              "ToolTip": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Controle.cs",
               "RelativeToolTip": "PrimeiraAula\\modelo\\Controle.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:27:18.478Z",
               "EditorCaption": ""
@@ -86,12 +88,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
               "RelativeDocumentMoniker": "PrimeiraAula\\apresentacao\\Form1.cs",
-              "ToolTip": "C:\\Users\\Rever\\source\\repos\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs [Projeto]",
               "RelativeToolTip": "PrimeiraAula\\apresentacao\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:26:02.429Z"
+              "WhenOpened": "2025-02-26T23:26:02.429Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }

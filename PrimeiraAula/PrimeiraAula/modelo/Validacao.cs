@@ -8,13 +8,11 @@ namespace PrimeiraAula.modelo
 {
     public class Validacao
     {
-        public string numero1;
-        public string numero2;
         public Double n1;
         public Double n2;
         public string mensagem;
 
-        public void validarDoisNumeros()
+        public void validarDoisNumeros(string numero1, string numero2)
         {
             mensagem = "";
             try
