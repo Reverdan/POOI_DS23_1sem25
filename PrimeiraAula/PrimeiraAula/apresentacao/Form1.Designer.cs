@@ -34,6 +34,9 @@
             txbSegundoNumero = new TextBox();
             btnSomar = new Button();
             lblResultado = new Label();
+            btnSubtrair = new Button();
+            btnDividir = new Button();
+            btnMultiplicar = new Button();
             SuspendLayout();
             // 
             // lblPrimeiroNumero
@@ -70,28 +73,61 @@
             // 
             // btnSomar
             // 
-            btnSomar.Location = new Point(82, 163);
+            btnSomar.Location = new Point(39, 161);
             btnSomar.Name = "btnSomar";
-            btnSomar.Size = new Size(75, 23);
+            btnSomar.Size = new Size(55, 23);
             btnSomar.TabIndex = 4;
-            btnSomar.Text = "Somar";
+            btnSomar.Text = "+";
             btnSomar.UseVisualStyleBackColor = true;
             btnSomar.Click += btnSomar_Click;
             // 
             // lblResultado
             // 
             lblResultado.AutoSize = true;
-            lblResultado.Location = new Point(39, 211);
+            lblResultado.Location = new Point(39, 242);
             lblResultado.Name = "lblResultado";
             lblResultado.Size = new Size(59, 15);
             lblResultado.TabIndex = 5;
             lblResultado.Text = "Resultado";
             // 
+            // btnSubtrair
+            // 
+            btnSubtrair.Location = new Point(145, 161);
+            btnSubtrair.Name = "btnSubtrair";
+            btnSubtrair.Size = new Size(55, 23);
+            btnSubtrair.TabIndex = 6;
+            btnSubtrair.Text = "-";
+            btnSubtrair.UseVisualStyleBackColor = true;
+            btnSubtrair.Click += btnSubtrair_Click;
+            // 
+            // btnDividir
+            // 
+            btnDividir.Location = new Point(145, 190);
+            btnDividir.Name = "btnDividir";
+            btnDividir.Size = new Size(55, 23);
+            btnDividir.TabIndex = 8;
+            btnDividir.Text = "/";
+            btnDividir.UseVisualStyleBackColor = true;
+            btnDividir.Click += btnDividir_Click;
+            // 
+            // btnMultiplicar
+            // 
+            btnMultiplicar.Location = new Point(39, 190);
+            btnMultiplicar.Name = "btnMultiplicar";
+            btnMultiplicar.Size = new Size(55, 23);
+            btnMultiplicar.TabIndex = 7;
+            btnMultiplicar.Text = "*";
+            btnMultiplicar.UseVisualStyleBackColor = true;
+            btnMultiplicar.Click += btnMultiplicar_Click;
+            // 
             // frmPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(251, 262);
+            ClientSize = new Size(251, 290);
+            Controls.Add(btnDividir);
+            Controls.Add(btnMultiplicar);
+            Controls.Add(btnSubtrair);
             Controls.Add(lblResultado);
             Controls.Add(btnSomar);
             Controls.Add(txbSegundoNumero);
@@ -112,5 +148,8 @@
         private TextBox txbSegundoNumero;
         private Button btnSomar;
         private Label lblResultado;
+        private Button btnSubtrair;
+        private Button btnDividir;
+        private Button btnMultiplicar;
     }
 }

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PrimeiraAula.frmPrincipal">
+    <Position X="1" Y="6" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACEQEAAYAACCgBACAAAAAQAAAAAAAABIAgA=</HashCode>
+      <FileName>apresentacao\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimeiraAula.Program">
+    <Position X="7" Y="8.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimeiraAula.modelo.Calculos">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAEAAAAAAgKAAAIAAA=</HashCode>
+      <FileName>modelo\Calculos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimeiraAula.modelo.Controle">
+    <Position X="2.5" Y="3.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgAAAAIAAA=</HashCode>
+      <FileName>modelo\Controle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimeiraAula.modelo.Validacao">
+    <Position X="4.5" Y="0.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAQAAAAEAAIAAAACAAAAAgA=</HashCode>
+      <FileName>modelo\Validacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

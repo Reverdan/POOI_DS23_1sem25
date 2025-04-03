@@ -8,23 +8,24 @@ namespace PrimeiraAula.modelo
 {
     public class Controle
     {
-        public string mensagem;
+        private string resultado;
 
-        public string executar(string numero1, string numero2)
+        public void executar(string numero1, string numero2, string op)
         {
-            mensagem = "";
             Validacao validacao = new Validacao();
-            validacao.validarDoisNumeros(numero1, numero2);
-            if (validacao.mensagem.Equals(""))
+            validacao.validarDoisNumeros(numero1, numero2, op);
+            if (validacao.Mensagem.Equals(""))
             {
-                Calculos calculos = new Calculos(validacao.n1, validacao.n2);
-                mensagem = calculos.res.ToString();
+                Calculos calculos = new Calculos(validacao.N1,
+                    validacao.N2, op);
+                resultado = calculos.Resultado.ToString();
             }
             else
             {
-                mensagem = validacao.mensagem;
+                resultado = validacao.Mensagem;
             }
-            return mensagem;
         }
+
+        public string Resultado { get => resultado; }
     }
 }

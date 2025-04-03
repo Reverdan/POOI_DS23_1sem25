@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\apresentacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\diagramacalculadora.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\diagramacalculadora.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\primeiraaula\\primeiraaula\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4F741-CCDF-487A-8FD9-9D3A5B45A647}|PrimeiraAula\\PrimeiraAula.csproj|solutionrelative:primeiraaula\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +34,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
               "RelativeDocumentMoniker": "PrimeiraAula\\apresentacao\\Form1.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
               "RelativeToolTip": "PrimeiraAula\\apresentacao\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:33:08.341Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "PrimeiraAula\\modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Controle.cs",
+              "RelativeToolTip": "PrimeiraAula\\modelo\\Controle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:27:18.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimeiraAula\\apresentacao\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Downloads\\POOI_DS23_1sem25-main\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\POOI_DS23_1sem25-main\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:26:02.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculos.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Calculos.cs",
+              "RelativeDocumentMoniker": "PrimeiraAula\\modelo\\Calculos.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Calculos.cs",
+              "RelativeToolTip": "PrimeiraAula\\modelo\\Calculos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:27:40.238Z"
             },
             {
               "$type": "Document",
@@ -53,48 +92,20 @@
               "RelativeDocumentMoniker": "PrimeiraAula\\modelo\\Validacao.cs",
               "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Validacao.cs",
               "RelativeToolTip": "PrimeiraAula\\modelo\\Validacao.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:27:54.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calculos.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Calculos.cs",
-              "RelativeDocumentMoniker": "PrimeiraAula\\modelo\\Calculos.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Calculos.cs",
-              "RelativeToolTip": "PrimeiraAula\\modelo\\Calculos.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:27:40.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Controle.cs",
-              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Controle.cs",
-              "RelativeDocumentMoniker": "PrimeiraAula\\modelo\\Controle.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\modelo\\Controle.cs",
-              "RelativeToolTip": "PrimeiraAula\\modelo\\Controle.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:27:18.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T23:27:54.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs",
-              "RelativeDocumentMoniker": "PrimeiraAula\\apresentacao\\Form1.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\apresentacao\\Form1.cs [Projeto]",
-              "RelativeToolTip": "PrimeiraAula\\apresentacao\\Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:26:02.429Z",
-              "EditorCaption": " [Projeto]"
+              "Title": "DiagramaCalculadora.cd",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\DiagramaCalculadora.cd",
+              "RelativeDocumentMoniker": "PrimeiraAula\\DiagramaCalculadora.cd",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\PrimeiraAula\\PrimeiraAula\\DiagramaCalculadora.cd",
+              "RelativeToolTip": "PrimeiraAula\\DiagramaCalculadora.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-04-02T23:14:22.73Z"
             }
           ]
         }
