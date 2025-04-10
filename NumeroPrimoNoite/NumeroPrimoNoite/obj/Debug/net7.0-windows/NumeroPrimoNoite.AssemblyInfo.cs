@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumeroPrimoNoite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b270d2903abffda0a00b0fb5a1cc7fc921b1269")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+735af58c69dcae6f5a8d1a0a44e93e8e2c593d6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumeroPrimoNoite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumeroPrimoNoite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\bin\Debug\net7.0-windows\NumeroPrimoNoite.exe
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\bin\Debug\net7.0-windows\NumeroPrimoNoite.deps.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\bin\Debug\net7.0-windows\NumeroPrimoNoite.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\bin\Debug\net7.0-windows\NumeroPrimoNoite.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\bin\Debug\net7.0-windows\NumeroPrimoNoite.pdb
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.frmPrincipal.resources
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.sourcelink.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\refint\NumeroPrimoNoite.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.pdb
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\NumeroPrimoNoite.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\NumeroPrimoNoite\NumeroPrimoNoite\obj\Debug\net7.0-windows\ref\NumeroPrimoNoite.dll

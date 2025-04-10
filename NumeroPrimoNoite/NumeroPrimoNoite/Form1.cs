@@ -1,10 +1,18 @@
+using NumeroPrimoNoite.modelo;
+
 namespace NumeroPrimoNoite
 {
-    public partial class Form1 : Form
+    public partial class frmPrincipal : Form
     {
-        public Form1()
+        public frmPrincipal()
         {
             InitializeComponent();
+        }
+
+        private void btnVerificar_Click(object sender, EventArgs e)
+        {
+            Controle controle = new Controle(txbNumero.Text);
+            lblResposta.Text = controle.Mensagem;
         }
     }
 }
