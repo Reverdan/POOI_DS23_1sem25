@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB8786B6-5949-4B16-8C3B-80B8217EFBFE}|TemperaturaNoite\\TemperaturaNoite.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\temperaturanoite\\temperaturanoite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB8786B6-5949-4B16-8C3B-80B8217EFBFE}|TemperaturaNoite\\TemperaturaNoite.csproj|solutionrelative:temperaturanoite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\temperaturanoite\\temperaturanoite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|solutionrelative:temperaturanoite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\temperaturanoite\\temperaturanoite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|solutionrelative:temperaturanoite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\temperaturanoite\\temperaturanoite\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|solutionrelative:temperaturanoite\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\temperaturanoite\\temperaturanoite\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|solutionrelative:temperaturanoite\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\temperaturanoite\\temperaturanoite\\modelo\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|solutionrelative:temperaturanoite\\modelo\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\temperaturanoite\\temperaturanoite\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|solutionrelative:temperaturanoite\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|c:\\users\\rever\\documents\\github\\pooi_ds23_1sem25\\temperaturanoite\\temperaturanoite\\modelo\\intmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE40B56-F690-48F2-B256-99B9108AD34F}|TemperaturaNoite\\TemperaturaNoite.csproj|solutionrelative:temperaturanoite\\modelo\\intmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +47,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Form1.cs",
+              "RelativeDocumentMoniker": "TemperaturaNoite\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Form1.cs*",
+              "RelativeToolTip": "TemperaturaNoite\\Form1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:20:25.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "TemperaturaNoite\\Modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\Controle.cs",
+              "RelativeToolTip": "TemperaturaNoite\\Modelo\\Controle.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:20:55.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conversao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\Conversao.cs",
+              "RelativeDocumentMoniker": "TemperaturaNoite\\Modelo\\Conversao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\Conversao.cs",
+              "RelativeToolTip": "TemperaturaNoite\\Modelo\\Conversao.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:20:46.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "TemperaturaNoite\\Modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\Validacao.cs",
+              "RelativeToolTip": "TemperaturaNoite\\Modelo\\Validacao.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:20:26.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "absPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\absPropriedades.cs",
+              "RelativeDocumentMoniker": "TemperaturaNoite\\Modelo\\absPropriedades.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\absPropriedades.cs",
+              "RelativeToolTip": "TemperaturaNoite\\Modelo\\absPropriedades.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:20:07.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "intMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\intMetodos.cs",
+              "RelativeDocumentMoniker": "TemperaturaNoite\\Modelo\\intMetodos.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Modelo\\intMetodos.cs",
+              "RelativeToolTip": "TemperaturaNoite\\Modelo\\intMetodos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:19:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Form1.cs",
               "RelativeDocumentMoniker": "TemperaturaNoite\\Form1.cs",
-              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Form1.cs [Projeto]",
-              "RelativeToolTip": "TemperaturaNoite\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\POOI_DS23_1sem25\\TemperaturaNoite\\TemperaturaNoite\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "TemperaturaNoite\\Form1.cs [Projeto]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T22:37:13.058Z",
+              "WhenOpened": "2025-04-30T23:02:52.362Z",
               "EditorCaption": " [Projeto]"
             }
           ]

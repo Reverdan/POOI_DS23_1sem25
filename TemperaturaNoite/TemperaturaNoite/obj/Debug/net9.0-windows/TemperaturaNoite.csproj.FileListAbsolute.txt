@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\bin\Debug\net9.0-windows\TemperaturaNoite.exe
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\bin\Debug\net9.0-windows\TemperaturaNoite.deps.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\bin\Debug\net9.0-windows\TemperaturaNoite.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\bin\Debug\net9.0-windows\TemperaturaNoite.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\bin\Debug\net9.0-windows\TemperaturaNoite.pdb
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.Form1.resources
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.sourcelink.json
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\refint\TemperaturaNoite.dll
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.pdb
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\TemperaturaNoite.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\POOI_DS23_1sem25\TemperaturaNoite\TemperaturaNoite\obj\Debug\net9.0-windows\ref\TemperaturaNoite.dll
